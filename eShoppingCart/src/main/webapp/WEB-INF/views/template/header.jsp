@@ -1452,13 +1452,13 @@ div.cart-collaterals ul.products li.product:hover .add_to_cart_button{background
            
      </div>
   
-        <div class="col-sm-6">
+        <!-- <div class="col-sm-6">
              
        <div class="shopping-item">
   
                       <a href="cart.html">Cart - <span class="cart-amunt">$800</span> <i class="fa fa-shopping-cart"></i> <span class="product-count">5</span></a>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div> <!-- End site branding area -->

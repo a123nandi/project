@@ -1,6 +1,6 @@
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags" %>
 <%@ include file="/WEB-INF/views/template/header.jsp" %>
-
+<body background="resources/images/Lback.jpg"></body>
 <div class="container-wrapper">
     <div class="container">
         <section>

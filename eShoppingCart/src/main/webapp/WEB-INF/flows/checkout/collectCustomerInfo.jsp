@@ -1,7 +1,7 @@
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
 <%@ include file="/WEB-INF/views/template/header.jsp" %>
 
-
+<body background="resources/images/Lback.jpg"></body>
 <div class="container-wrapper">
     <div class="container">
         <div class="page-header">

@@ -2,6 +2,8 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 <%@ include file="/WEB-INF/views/template/header.jsp" %>
 
+
+<body background="resources/images/Lback.jpg"></body>
 <jsp:useBean id="now" class="java.util.Date" />
 
 <div class="container-wrapper">
